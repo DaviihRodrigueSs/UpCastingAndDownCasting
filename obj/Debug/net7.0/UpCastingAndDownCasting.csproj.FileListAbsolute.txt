@@ -1,0 +1,14 @@
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\bin\Debug\net7.0\UpCastingAndDownCasting.exe
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\bin\Debug\net7.0\UpCastingAndDownCasting.deps.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\bin\Debug\net7.0\UpCastingAndDownCasting.runtimeconfig.json
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\bin\Debug\net7.0\UpCastingAndDownCasting.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\bin\Debug\net7.0\UpCastingAndDownCasting.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\obj\Debug\net7.0\UpCastingAndDownCasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\obj\Debug\net7.0\UpCastingAndDownCasting.AssemblyInfoInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\obj\Debug\net7.0\UpCastingAndDownCasting.AssemblyInfo.cs
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\obj\Debug\net7.0\UpCastingAndDownCasting.csproj.CoreCompileInputs.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\obj\Debug\net7.0\UpCastingAndDownCasting.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\obj\Debug\net7.0\refint\UpCastingAndDownCasting.dll
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\obj\Debug\net7.0\UpCastingAndDownCasting.pdb
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\obj\Debug\net7.0\UpCastingAndDownCasting.genruntimeconfig.cache
+C:\Users\daviu\Desktop\PROJETOS C# ORIENTAÇÃO A OBJETO\UpCastingAndDownCasting\obj\Debug\net7.0\ref\UpCastingAndDownCasting.dll
